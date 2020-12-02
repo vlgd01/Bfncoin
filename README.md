@@ -1,0 +1,2 @@
+# Bfncoin
+Intelligent contract
